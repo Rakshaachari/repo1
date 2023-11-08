@@ -3,4 +3,4 @@ echo "enter the numbers"
 read a
 read b
 sum=`expr $a + $b`
-echo "sum of 2 number is $sum"
+echo "Sum of 2 number is $sum"
